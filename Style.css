@@ -245,6 +245,12 @@ color: white;
     justify-content: center;
     text-align: center;
 }
+#conteiner_Values{ 
+    background-color: rgb(44, 38, 29);
+    height: 400px;
+
+
+}
 #Image_Our_Values{
     color:rgb(211, 209, 209);
     background-color:rgb(44, 38, 29);
